@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.2.2" icons="true" always-add-relationships="true" generalizations="true" realizations="true" 
+  associations="true" dependencies="true" nesting-relationships="true" router="FAN">  
+  <class id="1" language="java" name="Users.UserClass" project="NetFlix" file="/NetFlix/src/Users/UserClass.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="855" width="234" x="793" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="2" language="java" name="Users.User" project="NetFlix" file="/NetFlix/src/Users/User.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="621" width="234" x="1088" y="2146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="3" language="java" name="Users.ProfilesClass" project="NetFlix" 
+    file="/NetFlix/src/Users/ProfilesClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="315" width="234" x="709" y="2146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="4" language="java" name="Users.Profiles" project="NetFlix" file="/NetFlix/src/Users/Profiles.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="261" width="234" x="1025" y="2807"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="5" language="java" name="Programs.Film" project="NetFlix" file="/NetFlix/src/Programs/Film.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="103" x="381" y="3427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="6" language="java" name="Programs.FilmClass" project="NetFlix" file="/NetFlix/src/Programs/FilmClass.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="99" width="248" x="400" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="7" language="java" name="Programs.Program" project="NetFlix" file="/NetFlix/src/Programs/Program.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="279" width="189" x="1280" y="3108"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="8" language="java" name="Programs.ProgramsAbstractClass" project="NetFlix" 
+    file="/NetFlix/src/Programs/ProgramsAbstractClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="495" width="318" x="360" y="518"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="Programs.SeriesClass" project="NetFlix" 
+    file="/NetFlix/src/Programs/SeriesClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="117" width="275" x="1838" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="10" language="java" name="Programs.Series" project="NetFlix" file="/NetFlix/src/Programs/Series.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="63" width="103" x="2031" y="3427"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <interface id="11" language="java" name="Management.Management" project="NetFlix" 
+    file="/NetFlix/src/Management/Management.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="459" width="324" x="1172" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <class id="12" language="java" name="Management.ManagementClass" project="NetFlix" 
+    file="/NetFlix/src/Management/ManagementClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="693" width="324" x="1048" y="518"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="Collections.ProgramsCollectionClass" project="NetFlix" 
+    file="/NetFlix/src/Collections/ProgramsCollectionClass.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="220" x="1536" y="1251"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <interface id="14" language="java" name="Collections.ProgramsCollection" project="NetFlix" 
+    file="/NetFlix/src/Collections/ProgramsCollection.java" binary="false" corner="BOTTOM_RIGHT">    
+    <position height="135" width="220" x="1536" y="2146"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </interface>  
+  <enumeration id="15" language="java" name="Main.ProgramOutputMessages" project="NetFlix" file="/NetFlix/src/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="423" width="278" x="42" y="518"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="16" language="java" name="Main" project="NetFlix" file="/NetFlix/src/Main.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="441" width="267" x="1393" y="37"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="17" language="java" name="Main.Commands" project="NetFlix" file="/NetFlix/src/Main.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="369" width="176" x="718" y="518"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+      sort-features="false" accessors="true" visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <association id="18">    
+    <bendpoint x="1120" y="1251"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="19" name="users"/>      
+      <multiplicity id="20" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="21">    
+    <bendpoint x="1428" y="2807"/>    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="22">    
+    <bendpoint x="1423" y="518"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="11"/>  
+  </dependency>  
+  <dependency id="23">    
+    <bendpoint x="1373" y="2146"/>    
+    <bendpoint x="1373" y="2807"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="24">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="3"/>  
+  </dependency>  
+  <dependency id="25">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="1"/>  
+  </dependency>  
+  <realization id="26">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="11"/>  
+  </realization>  
+  <dependency id="27">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="13"/>  
+  </dependency>  
+  <association id="28">    
+    <bendpoint x="678" y="1251"/>    
+    <bendpoint x="678" y="2146"/>    
+    <bendpoint x="678" y="2807"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="29" name="programsByRate"/>      
+      <multiplicity id="30" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="31">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <realization id="32">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="14"/>  
+  </realization>  
+  <dependency id="33">    
+    <bendpoint x="1057" y="1251"/>    
+    <bendpoint x="1057" y="2146"/>    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="34">    
+    <bendpoint x="1624" y="518"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="9"/>  
+  </dependency>  
+  <realization id="35">    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="2"/>  
+  </realization>  
+  <dependency id="36">    
+    <bendpoint x="924" y="518"/>    
+    <bendpoint x="762" y="1251"/>    
+    <bendpoint x="973" y="2146"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <nesting id="37">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="15"/>  
+  </nesting>  
+  <dependency id="38">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <generalization id="39">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="40">    
+    <bendpoint x="1078" y="1251"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="41" name="currentUser"/>      
+      <multiplicity id="42" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="5"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <association id="44">    
+    <bendpoint x="1407" y="2146"/>    
+    <bendpoint x="1407" y="2807"/>    
+    <end type="SOURCE" refId="13" navigable="false">      
+      <attribute id="45" name="programs"/>      
+      <multiplicity id="46" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="47">    
+    <bendpoint x="369" y="1251"/>    
+    <bendpoint x="369" y="2146"/>    
+    <bendpoint x="411" y="2807"/>    
+    <end type="SOURCE" refId="8"/>    
+    <end type="TARGET" refId="7"/>  
+  </realization>  
+  <realization id="48">    
+    <end type="SOURCE" refId="3"/>    
+    <end type="TARGET" refId="4"/>  
+  </realization>  
+  <nesting id="49">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="17"/>  
+  </nesting>  
+  <dependency id="50">    
+    <bendpoint x="1402" y="518"/>    
+    <bendpoint x="1141" y="1251"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <association id="51">    
+    <bendpoint x="952" y="2807"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="52" name="recentPrograms"/>      
+      <multiplicity id="53" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="54">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <dependency id="55">    
+    <bendpoint x="1352" y="2146"/>    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="4"/>  
+  </dependency>  
+  <association id="56">    
+    <bendpoint x="1015" y="2146"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="57" name="currentProfile"/>      
+      <multiplicity id="58" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="59">    
+    <bendpoint x="1036" y="2146"/>    
+    <end type="SOURCE" refId="1" navigable="false">      
+      <attribute id="60" name="profiles"/>      
+      <multiplicity id="61" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="4" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="62">    
+    <bendpoint x="1786" y="1251"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="63" name="programs"/>      
+      <multiplicity id="64" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="14" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <realization id="65">    
+    <bendpoint x="2122" y="2146"/>    
+    <bendpoint x="2122" y="2807"/>    
+    <bendpoint x="2122" y="3108"/>    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="10"/>  
+  </realization>  
+  <dependency id="66">    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="12"/>  
+  </dependency>  
+  <realization id="67">    
+    <bendpoint x="390" y="2146"/>    
+    <bendpoint x="390" y="2807"/>    
+    <bendpoint x="390" y="3108"/>    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="5"/>  
+  </realization>  
+  <generalization id="68">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="7"/>  
+  </generalization>  
+  <dependency id="69">    
+    <bendpoint x="994" y="2146"/>    
+    <bendpoint x="994" y="2807"/>    
+    <end type="SOURCE" refId="1"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="70">    
+    <bendpoint x="1289" y="2807"/>    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <dependency id="71">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="6"/>  
+  </dependency>  
+  <association id="72">    
+    <bendpoint x="973" y="2807"/>    
+    <end type="SOURCE" refId="3" navigable="false">      
+      <attribute id="73" name="ratedPrograms"/>      
+      <multiplicity id="74" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="75">    
+    <bendpoint x="2143" y="518"/>    
+    <bendpoint x="2143" y="1251"/>    
+    <bendpoint x="2143" y="2146"/>    
+    <bendpoint x="2101" y="2807"/>    
+    <end type="SOURCE" refId="16"/>    
+    <end type="TARGET" refId="7"/>  
+  </dependency>  
+  <association id="76">    
+    <bendpoint x="1099" y="1251"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="77" name="users1"/>      
+      <multiplicity id="78" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="2" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="79">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="8"/>  
+  </generalization>  
+  <association id="80">    
+    <bendpoint x="1807" y="1251"/>    
+    <bendpoint x="1807" y="2146"/>    
+    <bendpoint x="1807" y="2807"/>    
+    <end type="SOURCE" refId="12" navigable="false">      
+      <attribute id="81" name="alphabeticPrograms"/>      
+      <multiplicity id="82" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="7" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <dependency id="83">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="2"/>  
+  </dependency>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="true" signature="true" 
+    sort-features="false" accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>
